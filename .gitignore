@@ -1,0 +1,5 @@
+build
+.idea
+android/.gradle
+flutter_app.iml
+
